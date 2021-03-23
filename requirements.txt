@@ -1,0 +1,2 @@
+pynonymizer
+python-dotenv

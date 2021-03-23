@@ -1,0 +1,13 @@
+tables:
+  user:
+    columns:
+      first_name: first_name
+      last_name: last_name
+      email: unique_email
+      password: empty
+  health_patient:
+    columns:
+      first_name: first_name
+      birth_name: last_name
+      last_name: last_name
+      birth_date: date_of_birth
